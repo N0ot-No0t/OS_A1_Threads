@@ -1,4 +1,4 @@
-
+package comp346pa1w2020;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -10,7 +10,7 @@
  *
  * @author Kerly Titus
  */
-public class comp546pa1driver {
+public class comp346pa1driver {
 
     /** 
      * main class
