@@ -1,4 +1,4 @@
-package comp346pa1w2020;
+package comp346pa2w2020;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -93,7 +93,7 @@ public class Transactions extends Thread {
      *  Mutator method of Transactions class
      *
      * @return
-     * @param transmount
+     * @param transAmount
      */
     public void setTransactionAmount(double transAmount)
     {
